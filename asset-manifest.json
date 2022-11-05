@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recipe-app/static/css/main.373e0e82.css",
+    "main.js": "/recipe-app/static/js/main.35adb2ca.js",
+    "static/media/foods.jpg": "/recipe-app/static/media/foods.0b8fc74b891c65bcdd2f.jpg",
+    "static/media/salades.jpg": "/recipe-app/static/media/salades.c4a8d21ea658cfd072e9.jpg",
+    "static/media/drinks.jpg": "/recipe-app/static/media/drinks.8b134bd452e6f9b4c16a.jpg",
+    "index.html": "/recipe-app/index.html",
+    "main.373e0e82.css.map": "/recipe-app/static/css/main.373e0e82.css.map",
+    "main.35adb2ca.js.map": "/recipe-app/static/js/main.35adb2ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.373e0e82.css",
+    "static/js/main.35adb2ca.js"
+  ]
+}
